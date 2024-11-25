@@ -1,2 +1,2 @@
-# Treesitter-pinned-ndnvim
-A support repo for the [ND-Nvim](https://github.com/NewDawn0/ND-Nvim) treesitter repo with pinned versions of treesitter with parsers
+# Treesitter pinned ND-Nvim
+A support repo for the [NDNvim](https://github.com/NewDawn0/NDNvim) treesitter repo with pinned versions of treesitter with parsers
